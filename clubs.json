@@ -1,0 +1,34 @@
+[
+  {
+    "id": "CLUB-001",
+    "name": "Iron Fist Gym",
+    "city": "Amsterdam",
+    "headCoach": "Marco Jansen",
+    "foundedYear": 2008,
+    "logoUrl": "https://ui-avatars.com/api/?name=IF&background=1e3a5f&color=fff&size=200&bold=true"
+  },
+  {
+    "id": "CLUB-002",
+    "name": "Golden Strike Academy",
+    "city": "Rotterdam",
+    "headCoach": "Said Benali",
+    "foundedYear": 2012,
+    "logoUrl": "https://ui-avatars.com/api/?name=GS&background=b8860b&color=fff&size=200&bold=true"
+  },
+  {
+    "id": "CLUB-003",
+    "name": "Northern Warriors Gym",
+    "city": "Antwerp",
+    "headCoach": "Kevin Peeters",
+    "foundedYear": 2005,
+    "logoUrl": "https://ui-avatars.com/api/?name=NW&background=8b0000&color=fff&size=200&bold=true"
+  },
+  {
+    "id": "CLUB-004",
+    "name": "Titan Combat Club",
+    "city": "Utrecht",
+    "headCoach": "Dennis Koster",
+    "foundedYear": 2010,
+    "logoUrl": "https://ui-avatars.com/api/?name=TC&background=4a4a4a&color=fff&size=200&bold=true"
+  }
+]
